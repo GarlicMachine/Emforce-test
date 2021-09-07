@@ -7,5 +7,6 @@ public class test1 {
 		int b = 20;
 		
 		System.out.print(a + b);
+		//오류를 대충 수정했다는 문구
 	}
 }
